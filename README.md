@@ -1,6 +1,7 @@
 This directory contains everything needed for
 **Chapter 9 (Find a Phrase)** in
-*Computational Thinking and Problem Solving*.
+[*Computational Thinking and Problem Solving (CTPS)*](https://profsmith89.github.io/ctps/ctps.html)
+by Michael D. Smith.
 
 `bf_strmatch*.py`: Two different Python implementations of a brute-force
 algorithm for string matching.
