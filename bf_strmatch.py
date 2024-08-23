@@ -22,10 +22,11 @@ def main():
         t = sys.stdin.read()
         p = sys.argv[1]
     elif len(sys.argv) == 3:
-        t = sys.argv[1]
+        with open(sys.argv[1]) as f:
+            t = f.read()
         p = sys.argv[2]
     else:
-        sys.exit("Usage: python3 bf_strmatch.py text pattern")
+        sys.exit("Usage: python3 bf_strmatch.py [[text] pattern]")
 
     bf_strmatch(t, p)
 
