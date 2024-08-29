@@ -26,12 +26,12 @@ def main():
     with open(fname) as f:
         t = f.read()
 
-    print('\n*** TEST with `strmatch` ***')
+    print('\n*** TEST with `bf_strmatch` ***')
     start = time.process_time()
     bf_strmatch(t, p)
     print(f'bf_strmatch took {time.process_time() - start} secs')
 
-    print('\n*** TEST with `strmatch2` ***')
+    print('\n*** TEST with `bf_strmatch2` ***')
     start = time.process_time()
     bf_strmatch2(t, p)
     print(f'bf_strmatch2 took {time.process_time() - start} secs')
