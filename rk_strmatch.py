@@ -70,7 +70,7 @@ def main():
             t = f.read()
         p = sys.argv[2]
     else:
-        sys.exit("Usage: python3 bf_strmatch.py [[text] pattern]")
+        sys.exit("Usage: python3 rk_strmatch.py [[text] pattern]")
 
     rk_strmatch(t, p)
 
