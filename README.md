@@ -22,7 +22,7 @@ runs for brute-force can take a long time.
 
 `ale02.py`: Code in ALE \#2.
 
-`fig_09_04.ipynb`: Source code for the graphs in Figure 9.4 (in
+`fig_09_04_05.ipynb`: Source code for the graphs in Figures 9.4 and 9.5 (in
 _Computational Thinking and Problem Solving_ by Michael D. Smith. The
 graphs illustrate the results of the brute-force (BF) and Rabin-Karp (RK) string
 matching experiments described in Chapter 9. The test results are produced by
