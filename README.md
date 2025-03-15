@@ -5,6 +5,8 @@ by Michael D. Smith.
 
 `bf_strmatch*.py`: Two different Python implementations of a brute-force algorithm for string matching.
 
+`test.txt`: A short text file on which we time the two implementations of brute-force string matching.
+
 `cmp_bf_times.py`: A script that times our two brute-force implementations on the example input `JustDavid.txt`.
 
 `JustDavid.txt`: A reasonably long input that allows us to compare our two brute-force implementations.
