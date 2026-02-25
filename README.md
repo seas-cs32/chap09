@@ -17,8 +17,6 @@ by Michael D. Smith.
 
 `ale01.py`: Code in ALE 9.1.
 
-`ale02.py`: Code in ALE 9.2.
-
 `ale04c.py`, `ale04d.py`: Code for ALE 9.4 steps 3 and 4.
 
 `Smith_fig_09_04_05.ipynb`: Source code for the graphs in Figures 9.4 and 9.5 (in _Computational Thinking and Problem Solving_ by Michael D. Smith. The graphs illustrate the results of the brute-force (BF) and Rabin-Karp (RK) string matching experiments described in Chapter 9. The test results are produced by `chap09/cmp_strmatch.py`.
